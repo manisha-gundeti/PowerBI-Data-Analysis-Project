@@ -1,6 +1,3 @@
-Yes. Based on your **two Power BI dashboard pages**, here's a professional **README.md** that explains the visualizations. You can directly paste this into your GitHub repository.
-
----
 
 # 📊 Bitcoin Market Sentiment vs Trader Performance Analysis
 
